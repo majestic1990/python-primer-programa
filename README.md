@@ -1,19 +1,27 @@
-# Primer Programa en Python
+#  Primer Programa en Python
 
-Este es mi primer programa en Python como parte de mi aprendizaje desde cero.
+Este es mi primer programa en Python como parte de mi proceso de aprendizaje desde cero hacia ciberseguridad y desarrollo.
 
-## Descripción
+##  Descripción
 
-El programa imprime en pantalla mi nombre y mi edad, y calcula mi edad el próximo año.
+El programa imprime mi nombre y calcula mi edad el próximo año.
 
-## Conceptos aprendidos
+##  Conceptos aprendidos
 
 - Variables
 - Tipos de datos (string, int)
 - Uso de print()
-- Operaciones básicas
+- Operaciones matemáticas básicas
 
-## Ejecución
+##  Ejecución
 
 ```bash
 python3 primer_programa.py
+
+ Estructura
+primer_programa.py
+README.md
+
+ Autor
+
+Carlos Alberto Gonzalez Bravo
